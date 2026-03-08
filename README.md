@@ -20,3 +20,10 @@ This repository contains a collection of **Blender `.blend` files**. Each file m
 
 ## 🖼️ Output
 Each `.blend` file can generate or render its own 3D scene. Rendered images can be saved using Blender’s render settings.
+
+Videos (when related settings are applied in .blend files) can be exported to MP4 and then converted to gif.
+
+**Example: Ubuntu Logo**
+
+<img src="https://github.com/user-attachments/assets/e3cd3ad1-b5d3-4562-bd6e-00d91e7af690" width="300">
+
